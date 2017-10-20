@@ -37,9 +37,9 @@
     </description>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/bundles/scripting/jsp-jstl</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/bundles/scripting/jsp-jstl</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/bundles/scripting/jsp-jstl</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-scripting-jsp-jstl.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-scripting-jsp-jstl.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-scripting-jsp-jstl.git</url>
     </scm>
 
     <build>
